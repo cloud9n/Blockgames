@@ -1,5 +1,13 @@
+//SPDX-License-Identifier:MIT
 pragma solidity ^0.8.10;
 
 contract HelloWorld {
-	string public greet ="Hello World Contract!";
+	string public Message;
+	function Hello() public {
+		Message = "Hello World";
+	}
+	
+	function GetMessage() public view returns(string memory) {
+		return Message;
+	}
 }
