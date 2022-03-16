@@ -1,7 +1,27 @@
 [
 	{
 		"inputs": [],
-		"name": "greet",
+		"name": "GetMessage",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "Hello",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "Message",
 		"outputs": [
 			{
 				"internalType": "string",
