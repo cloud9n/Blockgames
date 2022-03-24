@@ -1,2 +1,2 @@
 # Blockgames
-https://rinkeby.etherscan.io/address/0xd9145CCE52D386f254917e481eB44e9943F39138
+https://kovan.etherscan.io/tx/0x9a1411e80edd31fda1342a328af5e4687679214fa4442e3130d20a3ff88dd40b
