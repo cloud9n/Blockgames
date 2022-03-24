@@ -1,2 +1,2 @@
 # Blockgames
-https://kovan.etherscan.io/tx/0x9a1411e80edd31fda1342a328af5e4687679214fa4442e3130d20a3ff88dd40b
+https://kovan.etherscan.io/address/0xd27f02c835bf43a09e527364293b467f04557340
